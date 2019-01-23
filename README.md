@@ -1,4 +1,4 @@
-# DATA SCIENCE EXERCISE - MORTGAGE BACK SECURITIES
+# DATA SCIENCE EXERCISE - MORTGAGE BACKED SECURITIES
 
 Credit risk is a problem we face on a daily basis on our Data Science team. You have received in an email a mortgage
 backed securities database on 50k mortgages. The database contains features about the mortgage contract, payment of
